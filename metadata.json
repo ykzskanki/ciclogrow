@@ -1,0 +1,6 @@
+{
+  "name": "CicloGrow - Rastreador de Ciclos e Cultivo",
+  "description": "Aplicativo para acompanhamento diário do desenvolvimento de plantas, ciclos da germinação à colheita, regas e fertilizações com visual de calendário semanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

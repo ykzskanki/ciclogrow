@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "CicloGrow PRO - Rastreador de Cultivo",
+  "short_name": "CicloGrow",
+  "description": "Aplicativo para acompanhamento diário do desenvolvimento de plantas, ciclos da germinação à colheita, regas e fertilizações.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
